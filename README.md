@@ -1,4 +1,4 @@
-# ECOMMERCE REACT SIMPLE
+# ELECTRO.
 
 - [More information about me](https://senixcode.dev/)
 - [Demo](https://lightweight-ecommerce-template.netlify.app/)
